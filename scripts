@@ -1,0 +1,7 @@
+<script src="https://cdn.rawgit.com/jsoma/tabletop/master/src/tabletop.js"></script>
+<script src="https://cdn.rawgit.com/dtao/nearest-color/master/nearestColor.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.26/vue.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.4.1/tinycolor.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jscolor/2.0.4/jscolor.min.js"></script>
+<script src="https://codepen.io/meodai/pen/wdZdpa"></script>
+<script src="https://unpkg.com/color-name-list/dist/colornames.umd.js"></script>
